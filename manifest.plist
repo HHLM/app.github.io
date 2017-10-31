@@ -11,19 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+<<<<<<< HEAD
 					<string>https://app.github.io/Cunpiao.ipa</string>
+=======
+					<string>https://hhlm.github.io/app.github.io/Cunpiao.ipa</string>
+>>>>>>> 4b751a86ed9e2af4e5a249eab4efa3e0a84bd91d
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
+<<<<<<< HEAD
 					<string>https://app.github.io/57.png</string>
+=======
+					<string>https://hhlm.github.io/app.github.io/57.png</string>
+>>>>>>> 4b751a86ed9e2af4e5a249eab4efa3e0a84bd91d
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
+<<<<<<< HEAD
 					<string>https://app.github.io/512.png</string>
+=======
+					<string>https://hhlm.github.io/app.github.io/512.png</string>
+>>>>>>> 4b751a86ed9e2af4e5a249eab4efa3e0a84bd91d
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,6 +49,7 @@
 				<key>title</key>
 				<string>Cunpiao</string>
 			</dict>
+<<<<<<< HEAD
 			<key>thinned-assets</key>
 			<array>
 				<dict>
@@ -154,6 +167,8 @@
 					</array>
 				</dict>
 			</array>
+=======
+>>>>>>> 4b751a86ed9e2af4e5a249eab4efa3e0a84bd91d
 		</dict>
 	</array>
 </dict>
